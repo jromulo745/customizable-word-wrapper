@@ -1,0 +1,7 @@
+# OS Generated Files #
+######################
+.pyc
+
+# Python Cache #
+################
+__pycache__/
